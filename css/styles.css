@@ -11,7 +11,7 @@ body {
 .animate-a{
   position: relative;
   animation-name: fly;
-  animation-duration: 128s;
+  animation-duration: 256s;
 }
 
 @keyframes fly {
